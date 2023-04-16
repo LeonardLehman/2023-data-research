@@ -1,1 +1,0 @@
-sum[i for i in range(3, 10) if i%4 != 3 and i%3 !=2]
