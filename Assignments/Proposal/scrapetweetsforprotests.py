@@ -19,7 +19,7 @@ for city in cities:
         folium.Marker(location=[location.latitude, location.longitude], popup=city).add_to(map_plot)
 
 # Display the map
-map_plot.save('city_map.html')  # Save the map as an HTML file
+map_plot.save('2023-data-research\Assignments\Proposal\city_map.html')  # Save the map as an HTML file
 map_plot
 
 
