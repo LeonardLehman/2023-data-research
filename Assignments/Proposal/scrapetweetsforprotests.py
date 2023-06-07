@@ -1,6 +1,8 @@
 import folium
 from geopy.geocoders import Nominatim
 
+
+
 # List of city names
 cities = ['New York', 'London', 'Paris', 'Tokyo', 'Sydney', 'Rome', 'Cairo', 'Moscow', 'Beijing', 'Rio de Janeiro']
 
